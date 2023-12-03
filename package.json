@@ -1,0 +1,16 @@
+{
+  "name": "discord-uyari-botu",
+  "version": "1.0.0",
+  "description": "Discord botu - Uyarı Sistemi",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": ".the_sao_official.",
+  "dependencies": {
+    "discord.js": "^13.17.1"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
